@@ -27,7 +27,8 @@
   <br>
   <h3>👇 Follow Me</h3> 
    <div>
-  <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
+  <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/> 
+  <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Notion-000000?style=flatsquare&logo=Notion&logoColor=white&link=https://kkongchii.tistory.com"/> 
   </div>
     <br>
     <br>   
