@@ -27,7 +27,7 @@
   <br>
   <h3>👇 Fllow Me</h3> 
   <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
- <br>
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
                                                     
