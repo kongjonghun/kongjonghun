@@ -1,6 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20공종훈입니다%20🙋‍♂️)
-
 <div align="center">
+![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20공종훈입니다%20🙋‍♂️)
   <div>
     <p>Tech Stack</p>
   </div>
@@ -24,11 +23,14 @@
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
+  
+  <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
                                                     
 
-<a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
