@@ -7,6 +7,10 @@
 <img src="https://img.shields.io/badge/Java-26689A?logo=java">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5">                                                                 
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3">
-<img src="https://img.shields.io/badge/Django-092E20?logo=Django">                                                             
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL">                                                             
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL">                                                             
+<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?logo=microsoftsqlserver">                                                   
+<img src="https://img.shields.io/badge/oracle-F80000?logo=oracle">                                                             
+
 
 
