@@ -21,3 +21,5 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" /></div>
 
 <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
