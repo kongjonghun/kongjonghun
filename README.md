@@ -1,8 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20공종훈입니다%20🙋‍♂️)
 <div align="center">
   <div>
-    <p>Tech Stack</p>
+    <h4>Tech Stack</h4>
   </div>
+  <br>
+  <br>
   <div>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
