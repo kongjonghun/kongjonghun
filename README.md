@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white">                                   
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"> 
   </div>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" /></div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" /></div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
 </div>
                                                     
 
