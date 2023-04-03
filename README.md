@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Java-26689A?logo=java&logoColor=white">   
     <img src="https://img.shields.io/badge/Python-3776ABF?logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/csharp-239120?logo=csharp&logoColor=white">    
+    <img src="https://img.shields.io/badge/C#-239120?logo=csharp&logoColor=white">    
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">                                                                 
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
   </div>
@@ -19,17 +19,16 @@
   </div> 
   <div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
   </div>
   <br>
   <h3>👇 Fllow Me</h3> 
   <a href="https://kkongchii.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flatsquare&logo=Tistory&logoColor=white&link=https://kkongchii.tistory.com"/>
- 
+ <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 </div>
                                                     
 
