@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20공종훈입니다%20🙋‍♂️)
+![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20Backend%20개발자%20공종훈입니다%20🙋‍♂️)
 <div align="center">
     <h2>🛠️Tech Stack🛠️</h2> 
   <br>
