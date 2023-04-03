@@ -8,10 +8,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">                                                             
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">                                                             
-<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white">                                                             
-<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=white">                                                   
-<img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">                                                             
+<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white">                                                   
+<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=white">                                   
+<img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white">                                                           
 
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="41" height="41" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" /></div>
+
+<a href="https://velog.io/@soyeon207"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soyeon207"/>
