@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20공종훈입니다%20🙋‍♂️)
 
-<div class='my-div'>
+<div style='text-align: center;'>
   <div>
     <p>Tech Stack</p>
   </div>
@@ -31,15 +31,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-  .my-div {
-
-	  border : 1px solid blue;
-
-	  height : 200px;
-
-	  display : flex;
-
-	  justify-content : center;
-
-	}
+ 
